@@ -1,6 +1,6 @@
 # Steps to show file Explorer 
 
--- Clone the repo
--- Execute: npm install
--- Execute: npm run start
-
+## Clone the repo
+## npm install
+## npm run start
+ 
