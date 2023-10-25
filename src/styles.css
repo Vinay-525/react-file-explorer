@@ -1,0 +1,14 @@
+.file {
+  display: flex;
+  flex-direction: column;
+  padding-left: 24px;
+}
+
+.hide {
+  display: none;
+}
+
+.folder {
+  margin-top: 5px;
+  cursor: pointer;
+}
